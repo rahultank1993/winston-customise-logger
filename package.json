@@ -1,6 +1,6 @@
 {
   "name": "winston-customise-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "custom-logger use for logging. it generate date wise log file also this package use to send email and store log in mongodb",
   "main": "lib/custom.js",
   "scripts": {
